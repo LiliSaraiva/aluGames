@@ -4,7 +4,7 @@ Este projeto é uma plataforma para aluguel de jogos de tabuleiro.
 
 ## 🌐 Acesso
 
-Você pode acessar o site clicando [aqui](https://seu-link-aqui.com).
+Você pode acessar o site clicando [aqui](https://alu-games-three.vercel.app/).
 
 ## 📸 Imagem do Site
 
